@@ -32,7 +32,7 @@ In this repository, you will find the following folders and files:
   
     5. [Deprecated:(simple_CNN_smaller_class_subset.ipynb)](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/blob/master/notebooks/simple_CNN_smaller_class_subset.ipynb) Tried using CNN from scratch using flow_from_directory on smaller subset of data.
 
-    6. [Deprecated: GC_VIX_EDA.ipynb](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/blob/master/notebooks/simple_CNN_v2.ipynbb)
+    6. [Deprecated: simple_CNN_v2.ipynb](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/blob/master/notebooks/simple_CNN_v2.ipynbb)
   
 =======
 
