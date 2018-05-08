@@ -20,7 +20,7 @@ In this repository, you will find the following folders and files:
   
 3. [Jupyter Notebooks:](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/tree/master/notebooks)
  
-    1. [Directory Setup:](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/blob/master/notebooks/Directory_setup.ipynb)Verify compressed dataset files, create train test directories and crop images according to annotation. Pickling and packaging images into single Nunpy array.  
+    1. [Directory Setup:](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/blob/master/notebooks/Directory_setup.ipynb)Verify compressed dataset files, create train test directories and crop images according to annotation. Pickling and packaging images into single Numpy array.  
   
     2. [dog_breed_EDA:](https://github.com/thegarrickchu/Springboard-Dog_Breed_Classifier/blob/master/notebooks/dog_breed_EDA.ipynb) Exploring a small selection of images, validating data, sizing up the dataset.
   
